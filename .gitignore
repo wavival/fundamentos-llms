@@ -1,0 +1,25 @@
+# Dependencias y entornos
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Salidas de compilación y reportes
+dist/
+build/
+coverage/
